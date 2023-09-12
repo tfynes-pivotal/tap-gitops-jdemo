@@ -11,6 +11,6 @@ spec:
     - name: petclinic-gateway
       port: 80
   virtualhost:
-    fqdn: petclinic.jdemo.fynesy.com
+    fqdn: petclinic.jdemo2.fynesy.com
     tls:
       secretName: petclinic-gateway-tls-cert

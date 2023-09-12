@@ -23,4 +23,4 @@ spec:
     groupId: petclinic
     cors:
       allowedOrigins:
-      - https://api-portal.jdemo.fynesy.com
+      - https://api-portal.jdemo2.fynesy.com
