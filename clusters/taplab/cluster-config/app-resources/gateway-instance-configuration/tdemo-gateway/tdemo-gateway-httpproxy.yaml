@@ -11,6 +11,6 @@ spec:
     - name: tdemo-gateway
       port: 80
   virtualhost:
-    fqdn: tdemo.jdemo2.fynesy.com
+    fqdn: tdemo.jdemo.fynesy.net
     tls:
       secretName: tdemo-gateway-tls-cert

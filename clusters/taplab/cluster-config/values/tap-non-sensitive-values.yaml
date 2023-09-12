@@ -4,7 +4,7 @@ tap_install:
     - learningcenter.tanzu.vmware.com
     - workshops.learningcenter.tanzu.vmware.com
     shared:
-      ingress_domain: jdemo2.fynesy.com
+      ingress_domain: jdemo.fynesy.net
       ingress_issuer: letsencrypt-production
     ceip_policy_disclosed: true
     profile: full

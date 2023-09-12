@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   dnsNames:
-  - petclinic.jdemo2.fynesy.com
+  - petclinic.jdemo.fynesy.net
   secretName: petclinic-gateway-tls-cert
   issuerRef:
     name: letsencrypt-production

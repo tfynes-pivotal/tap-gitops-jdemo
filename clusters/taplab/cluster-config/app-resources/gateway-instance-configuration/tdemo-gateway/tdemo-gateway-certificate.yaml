@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   dnsNames:
-  - tdemo.jdemo2.fynesy.com
+  - tdemo.jdemo.fynesy.net
   secretName: tdemo-gateway-tls-cert
   issuerRef:
     name: letsencrypt-production

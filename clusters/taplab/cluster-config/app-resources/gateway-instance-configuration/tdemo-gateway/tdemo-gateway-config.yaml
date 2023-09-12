@@ -16,16 +16,16 @@ spec:
       prometheus:
         enabled: true
   count: 1
-  host: tdemo.jdemo2.fynesy.com
+  host: tdemo.jdemo.fynesy.net
   api:
-    serverUrl: https://tdemo.jdemo2.fynesy.com
+    serverUrl: https://tdemo.jdemo.fynesy.net
     title: Tanzu Demo APIs
     description: Sample basic SCG + TAP Demos
     version: 0.0.1
     groupID: tanzu-demo
     cors:
       allowedOrigins:
-      - https://api-portal.jdemo2.fynesy.com
+      - https://api-portal.jdemo.fynesy.net
       allowedMethods:
       - GET
       allowedHeaders:
