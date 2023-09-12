@@ -1,0 +1,29 @@
+apiVersion: ENC[AES256_GCM,data:DA8=,iv:VHYFN+eyKkw46LG06kV2LWV6YmElcO7BqfVTAbso9rg=,tag:FuT8jZBO9E8nKtrsfJrgjA==,type:str]
+kind: ENC[AES256_GCM,data:5Q2j5t/A,iv:778kszWkNiPbzOjuR5cnwfRasNWDwd8k3cywaqcerS8=,tag:VqrHjig6qPuYnjJFUBTQAg==,type:str]
+metadata:
+    name: ENC[AES256_GCM,data:eRkVoB7CfcHWv34uCb22MX4=,iv:VV+BvIJ9f6MUrHwLqGtCVjxzjSNqyboaAGkJm4+NXeM=,tag:ikluLtL9Kd4JHbxyAYN7Zw==,type:str]
+    namespace: ENC[AES256_GCM,data:l3gwBCVB3vs0GxQ=,iv:iaksEs1xyMOilW9Mmij8o1bHYB1X8BCExmF7w5fzF7I=,tag:AAGphly2sNwT8amVjXSRKw==,type:str]
+type: ENC[AES256_GCM,data:bWoqbj2caWAfoI3xjM1MACAZMjlhYSSq,iv:PZX5H++B0pJVzFg7Ih5+wiQ1uvRaxnKjzxenXMLzJzc=,tag:AxTcyGOP4gkxl/Kx6+zTsQ==,type:str]
+stringData:
+    username: ENC[AES256_GCM,data:NsElW/eQMGqUXgVCQI8=,iv:yAhiwhlqi6E31bdStNFLHGGiO7dSTSYBFbvnLZGIaDo=,tag:z5pSdYwpOtEDHimBTAmulQ==,type:str]
+    password: ENC[AES256_GCM,data:8yrpEFwRIG3wnH3pLUpNEY/kmlVmhJP1rvC7ko5MDyMwBBWL5xYUUQ==,iv:9CSKB12RWXM1IO6DUpKB/fGkli8BeHX6TV1Og1ghFFU=,tag:pB0cSRITvrAKEmd9cX7rog==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age:
+        - recipient: age1u74ps32m3mcvd6zjaw8w2p3wwfucz0r2rxrsxmq8ldlyv5lapgkqle505u
+          enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBaWUJ3b29LbmlvQ2kwUlYv
+            cFVrNUxqTktCYlFPNDZuRTVBaTIwRXFXYVRrCndnUVY0MmJkOTdDYU5tOG1Fa3Rm
+            SnByOG45bEI2K1N3UE1hMTB0YTFkbjAKLS0tIFprMHd5MEh0a1d3c3dlNmtwTTV5
+            cjk3MlI3d3lUK1dLbDg4a3ZFbE55UU0KrnHTo8pZ3a0kT6NXf9l+1Lr6nuR4cR8O
+            ePXTPFkEonREtwAmq3VhFysNpe4qPiamPsM/304Z5Q2IAiiXlZr3YA==
+            -----END AGE ENCRYPTED FILE-----
+    lastmodified: "2023-09-12T18:01:54Z"
+    mac: ENC[AES256_GCM,data:4o9pmWwOH7zRB0LYkak2zT+yGPKE72NgztZKtBy7EoVJw+iu9teY/pi+qh67He0HEquAQ03RdvOaR8l+73lsiqTBYoLGsqdFaqIWs2Q1SUaXrxoIJCnQDTEaDO0cJVRgFHwe5CKYUSX/3hzwULZGjEZSzlUaoqvj2FPrlSoQ69s=,iv:skIzj1c29g9B+SpTHJng5NUqzvLYYypVKDGiRqV8pl0=,tag:z4WxpFEw/JpnZibrTfcDHA==,type:str]
+    pgp: []
+    unencrypted_suffix: _unencrypted
+    version: 3.7.3
